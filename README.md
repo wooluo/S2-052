@@ -6,4 +6,5 @@ S2-052反弹shell脚本
 usage:
 python s2-052.py http://example.com
 然后输入cmd执行即可执行命令
-
+![](1.png)
+![](2.png)
